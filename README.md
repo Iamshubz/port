@@ -1,7 +1,6 @@
 # Shubham Kayande - Portfolio
 
 A modern, fully responsive portfolio website built with React, Three.js, and Tailwind CSS.
- ## veiw : https://696fdafb352621707b8d5f40--deft-moonbeam-470dc1.netlify.app/ 
 ## Features
 
 ✨ **3D Background Animation** - Interactive Three.js background with mouse tracking
